@@ -110,7 +110,7 @@
   MACRO_(dateStyle, dateStyle, "dateStyle")                                    \
   MACRO_(day, day, "day")                                                      \
   MACRO_(dayPeriod, dayPeriod, "dayPeriod")                                    \
-  MACRO_(debugger, debugger, "debugger")                                       \
+  MACRO_(banana_debugger, debugger, "banana_debugger")                                       \
   MACRO_(decimal, decimal, "decimal")                                          \
   MACRO_(decodeURI, decodeURI, "decodeURI")                                    \
   MACRO_(decodeURIComponent, decodeURIComponent, "decodeURIComponent")         \
