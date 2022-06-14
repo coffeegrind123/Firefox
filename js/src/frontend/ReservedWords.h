@@ -20,7 +20,7 @@
   MACRO(catch, catch_, TokenKind::Catch)                \
   MACRO(const, const_, TokenKind::Const)                \
   MACRO(continue, continue_, TokenKind::Continue)       \
-  MACRO(debugger, debugger, TokenKind::Debugger)        \
+  MACRO(banana_debugger, debugger, TokenKind::Debugger)        \
   MACRO(default, default_, TokenKind::Default)          \
   MACRO(delete, delete_, TokenKind::Delete)             \
   MACRO(do, do_, TokenKind::Do)                         \
